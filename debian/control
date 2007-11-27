@@ -17,7 +17,7 @@ Description: astronomical library
 Package: libnova-dev
 Architecture: any
 Section: libdevel
-Depends: libnova-0.12-1 (= ${binary:Version}),  ${misc:Depends}
+Depends: libnova-0.12-1 (= ${binary:Version}), ${shlibs:Depends}, ${misc:Depends}
 Description: development files for libnova astronomical library
  libnova is a general purpose, double precision, Celestial Mechanics, 
  Astrometry and Astrodynamics library.
