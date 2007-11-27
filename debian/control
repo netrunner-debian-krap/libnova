@@ -9,7 +9,7 @@ Homepage: http://libnova.sourceforge.net/
 
 Package: libnova-0.12-1
 Architecture: any
-Depends: ${shlibs:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: astronomical library
  libnova is a general purpose, double precision, Celestial Mechanics, 
  Astrometry and Astrodynamics library.
