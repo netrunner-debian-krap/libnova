@@ -1,0 +1,25 @@
+Source: libnova
+Section: libs
+Priority: optional
+Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
+Build-Depends: cdbs, debhelper (>= 5), autotools-dev
+Standards-Version: 3.7.2
+Uploaders: Sune Vuorela <debian@pusling.com>
+
+Package: libnova-0.12-1
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: astronomical library
+ libnova is a general purpose, double precision, Celestial Mechanics, 
+ Astrometry and Astrodynamics library.
+
+
+Package: libnova-dev
+Architecture: any
+Section: libdevel
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: development files for libnova astronomical library
+ libnova is a general purpose, double precision, Celestial Mechanics, 
+ Astrometry and Astrodynamics library.
+ .
+ This package contains development headers.

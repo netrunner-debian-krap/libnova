@@ -1,0 +1,6 @@
+libnova (0.12.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Sune Vuorela <debian@pusling.com>  Tue, 27 Nov 2007 13:00:34 +0100
+

@@ -1,0 +1,61 @@
+This package was debianized by Sune Vuorela <debian@pusling.com> on
+Tue, 27 Nov 2007 13:00:34 +0100.
+
+It was downloaded from <http://libnova.sourceforge.net/index.html>
+
+Upstream Author: 
+
+    Liam Girdwood                   <liam@gnova.org> 
+    Juan Carlos Remis       <jcremis@cajaespana.es> 
+    Petr Kubanek                    <petr@lascaux.asu.cas.cz>
+
+Copyright: 
+    Copyright (C) 2000 - 2005 Liam Girdwood <liam@gnova.org>
+    Copyright (C) 2000 - 2005 Petr Kubanek
+    Copyright (C) 1999, 2000 Juan Carlos Remis
+
+License:
+Except where mentioned, everything is under LGPL:
+
+    This package is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Lesser General Public
+    License as published by the Free Software Foundation; either
+    version 2 of the License, or (at your option) any later version.
+
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+    Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public
+    License along with this package; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU Lesser General
+Public License can be found in `/usr/share/common-licenses/LGPL-2.1'.
+
+The following files are under GPL:
+examples/transform.c
+lntest/*.c
+
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or   
+    (at your option) any later version.                                 
+									    
+    This program is distributed in the hope that it will be useful,     
+    but WITHOUT ANY WARRANTY; without even the implied warranty of      
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the       
+    GNU General Public License for more details.                        
+									    
+    You should have received a copy of the GNU General Public License   
+    along with this program; if not, write to the Free Software         
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA, 02110-1301 USA
+
+On Debian systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL-2'.
+
+
+The Debian packaging is (C) 2007, Sune Vuorela <debian@pusling.com> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL-2'.
