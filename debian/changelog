@@ -1,3 +1,11 @@
+libnova (0.13.0-1) UNRELEASED; urgency=low
+
+  * New upstream release
+  * Bumped standars-version to 3.8.3
+  * Added a final newline to the watch file
+
+ -- Lisandro Damián Nicanor Pérez Meyer <perezmeyer@gmail.com>  Thu, 24 Sep 2009 18:41:26 -0300  
+
 libnova (0.12.1-2) UNRELEASED; urgency=low
 
   * Add watch file.
