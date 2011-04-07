@@ -8,6 +8,7 @@ usr/include/libnova/comet.h
 usr/include/libnova/dynamical_time.h
 usr/include/libnova/earth.h
 usr/include/libnova/elliptic_motion.h
+usr/include/libnova/heliocentric_time.h
 usr/include/libnova/hyperbolic_motion.h
 usr/include/libnova/julian_day.h
 usr/include/libnova/jupiter.h
