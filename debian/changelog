@@ -14,6 +14,7 @@ libnova (0.13.0-1) UNRELEASED; urgency=low
   * Switch to source format 3.0(quilt).
   * Bump debhelper compatibility level to 7.
   * Update installed files.
+  * Updated copyright file.
 
  -- Lisandro Damián Nicanor Pérez Meyer <perezmeyer@gmail.com>  Thu, 24 Sep 2009 18:41:26 -0300
 

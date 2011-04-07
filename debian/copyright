@@ -10,9 +10,9 @@ Upstream Author:
     Petr Kubanek                    <petr@lascaux.asu.cas.cz>
 
 Copyright: 
-    Copyright (C) 2000 - 2005 Liam Girdwood <liam@gnova.org>
-    Copyright (C) 2000 - 2005 Petr Kubanek
-    Copyright (C) 1999, 2000 Juan Carlos Remis
+    Copyright © 2000 - 2005 Liam Girdwood <liam@gnova.org>
+    Copyright © 2000 - 2005 Petr Kubanek
+    Copyright © 1999, 2000 Juan Carlos Remis
 
 License:
 Except where mentioned, everything is under LGPL:
@@ -34,10 +34,10 @@ Except where mentioned, everything is under LGPL:
 On Debian systems, the complete text of the GNU Lesser General
 Public License can be found in `/usr/share/common-licenses/LGPL-2.1'.
 
-The following files are under GPL:
-examples/transform.c
-lntest/*.c
 
+The following files are under GPL:
+examples/transforms.c
+lntest/*.c
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -57,5 +57,5 @@ On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL-2'.
 
 
-The Debian packaging is (C) 2007, Sune Vuorela <debian@pusling.com> and
+The Debian packaging is © 2007, Sune Vuorela <debian@pusling.com> and
 is licensed under the GPL, see `/usr/share/common-licenses/GPL-2'.
