@@ -7,7 +7,7 @@ Standards-Version: 3.9.1
 Uploaders: Sune Vuorela <debian@pusling.com>
 Homepage: http://libnova.sourceforge.net/
 
-Package: libnova-0.13-1
+Package: libnova-0.13-0
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: astronomical library
@@ -17,7 +17,7 @@ Description: astronomical library
 Package: libnova-dev
 Architecture: any
 Section: libdevel
-Depends: libnova-0.13-1 (= ${binary:Version}), ${shlibs:Depends}, ${misc:Depends}
+Depends: libnova-0.13-0 (= ${binary:Version}), ${shlibs:Depends}, ${misc:Depends}
 Description: development files for libnova astronomical library
  libnova is a general purpose, double precision, Celestial Mechanics, 
  Astrometry and Astrodynamics library.
