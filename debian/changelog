@@ -6,15 +6,15 @@ libnova (0.13.0-0r2) unstable; urgency=low
   * Add watch file.
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
-  * Bumped standars-version to 3.9.1.
-  * Added a final newline to the watch file.
+  * Bump standars-version to 3.9.1.
+  * Add a final newline to the watch file.
   * Update installed files.
 
   [ José Manuel Santamaría Lema ]
   * Switch to source format 3.0 (quilt).
   * Bump debhelper compatibility level to 7.
   * Update installed files.
-  * Updated copyright file.
+  * Update copyright file.
   * Add /usr/share/cdbs/1/rules/utils.mk to debian/rules to allow us to use
     debian/rules list-missing.
   * Don't install an uneeded *.la file. (Closes: #621545)
