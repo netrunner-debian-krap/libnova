@@ -12,7 +12,7 @@ Vcs-Browser: http://git.debian.org/?p=pkg-kde/krap/libnova.git
 Package: libnova-0.14-0
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: astronomical library
+Description: celestial mechanics, astrometry and astrodynamics library
  libnova is a general purpose, double precision, Celestial Mechanics, 
  Astrometry and Astrodynamics library.
 
