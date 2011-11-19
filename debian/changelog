@@ -2,7 +2,7 @@ libnova (0.13.0-0r2) unstable; urgency=low
 
   * New upstream release. (Closes: #604411)
 
-  [ Matthew Rosewarne] 
+  [ Matthew Rosewarne ]
   * Add watch file.
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
@@ -11,7 +11,7 @@ libnova (0.13.0-0r2) unstable; urgency=low
   * Update installed files.
 
   [ José Manuel Santamaría Lema ]
-  * Switch to source format 3.0(quilt).
+  * Switch to source format 3.0 (quilt).
   * Bump debhelper compatibility level to 7.
   * Update installed files.
   * Updated copyright file.
