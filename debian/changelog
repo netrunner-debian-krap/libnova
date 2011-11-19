@@ -24,6 +24,9 @@ libnova (0.14.0-0r0) unstable; urgency=low
   * Small description changes.
   * Bump Standards-Version to 3.9.2.
 
+  [ Sune Vuorela ]
+  * Change my email address to the @debian.org one.
+
  -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 07 Apr 2011 02:49:08 +0200
 
 libnova (0.12.1-1) unstable; urgency=low
