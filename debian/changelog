@@ -6,7 +6,7 @@ libnova (0.14.0-0r0) unstable; urgency=low
   * Add watch file.
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
-  * Bump standars-version to 3.9.1.
+  * Bump Standards-Version to 3.9.1.
   * Add a final newline to the watch file.
   * Update installed files.
 
