@@ -33,6 +33,8 @@ libnova (0.14.0-0r0) unstable; urgency=low
     - mark libnova-0.14-0 as Multi-Arch: same
     - make libnova-0.14-0 pre-depend on ${misc:Pre-Depends}
   * Update date/version in libnovaconfig.1.
+  * Explicitly remove .la files from debian/tmp, instead of ignore them
+    in dh_install.
 
   [ Sune Vuorela ]
   * Change my email address to the @debian.org one.
