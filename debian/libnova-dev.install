@@ -34,5 +34,5 @@ usr/include/libnova/uranus.h
 usr/include/libnova/utility.h
 usr/include/libnova/venus.h
 usr/include/libnova/vsop87.h
-usr/lib/libnova.a
-usr/lib/libnova.so
+usr/lib/*/libnova.a
+usr/lib/*/libnova.so
