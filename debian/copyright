@@ -1,4 +1,4 @@
-This package was debianized by Sune Vuorela <debian@pusling.com> on
+This package was debianized by Sune Vuorela <sune@debian.org> on
 Tue, 27 Nov 2007 13:00:34 +0100.
 
 It was downloaded from <http://libnova.sourceforge.net/index.html>
@@ -57,5 +57,5 @@ On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL-2'.
 
 
-The Debian packaging is © 2007, Sune Vuorela <debian@pusling.com> and
+The Debian packaging is © 2007, Sune Vuorela <sune@debian.org> and
 is licensed under the GPL, see `/usr/share/common-licenses/GPL-2'.
