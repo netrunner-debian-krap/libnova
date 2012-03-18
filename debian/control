@@ -3,7 +3,7 @@ Section: libs
 Priority: optional
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: debhelper (>= 7.0.50~), autotools-dev
-Standards-Version: 3.9.2
+Standards-Version: 3.9.3
 Uploaders: Sune Vuorela <sune@debian.org>
 Homepage: http://libnova.sourceforge.net/
 Vcs-Git: git://git.debian.org/pkg-kde/krap/libnova.git

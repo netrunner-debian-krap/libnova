@@ -20,7 +20,7 @@ libnova (0.14.0-0r0) unstable; urgency=low
   [ Pino Toscano ]
   * Add Vcs-Browser and Vcs-Git headers in control.
   * Small description changes.
-  * Bump Standards-Version to 3.9.2.
+  * Bump Standards-Version to 3.9.3.
   * Switch from cdbs to the dh sequencer:
     - drop build dependency on cdbs
     - bump debhelper build dependency to 7.0.50~
