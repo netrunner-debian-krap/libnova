@@ -32,6 +32,7 @@ libnova (0.14.0-0r0) unstable; urgency=low
     - update paths in .install files
     - mark libnova-0.14-0 as Multi-Arch: same
     - make libnova-0.14-0 pre-depend on ${misc:Pre-Depends}
+  * Update date/version in libnovaconfig.1.
 
   [ Sune Vuorela ]
   * Change my email address to the @debian.org one.
