@@ -1,5 +1,6 @@
-libnova (0.14.0-0r0) unstable; urgency=low
+libnova (0.14.0-1) experimental; urgency=low
 
+  * Team upload.
   * New upstream release. (Closes: #604411)
 
   [ Matthew Rosewarne ]
@@ -40,7 +41,7 @@ libnova (0.14.0-0r0) unstable; urgency=low
   [ Sune Vuorela ]
   * Change my email address to the @debian.org one.
 
- -- Debian Krap Maintainers <debian-qt-kde@lists.debian.org>  Thu, 07 Apr 2011 02:49:08 +0200
+ -- Pino Toscano <pino@debian.org>  Sun, 18 Mar 2012 10:48:52 +0100
 
 libnova (0.12.1-1) unstable; urgency=low
 
