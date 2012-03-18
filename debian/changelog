@@ -35,6 +35,7 @@ libnova (0.14.0-0r0) unstable; urgency=low
   * Update date/version in libnovaconfig.1.
   * Explicitly remove .la files from debian/tmp, instead of ignore them
     in dh_install.
+  * Add my contributions to the copyright file.
 
   [ Sune Vuorela ]
   * Change my email address to the @debian.org one.
