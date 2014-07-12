@@ -2,7 +2,7 @@ Source: libnova
 Section: libs
 Priority: optional
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
-Build-Depends: debhelper (>= 9), autotools-dev
+Build-Depends: debhelper (>= 9), autotools-dev, dh-autoreconf
 Standards-Version: 3.9.3
 Uploaders: Sune Vuorela <sune@debian.org>
 Homepage: http://libnova.sourceforge.net/
